@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoAcceptServiceApp</string>
+    <string name="accessibility_service_description">
+        Dịch vụ tự động nhận lời mời từ Test IO
+    </string>
+</resources>
